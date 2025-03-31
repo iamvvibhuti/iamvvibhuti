@@ -27,9 +27,9 @@
   <img src="https://img.shields.io/badge/Google_Vault-FBBC05?style=for-the-badge&logo=google-vault&logoColor=black" alt="Vault Badge"/>
 </p>
 <ul>
-  <li><b>Administration:</b> Advanced User/Group Management (**GAM**), Policy Enforcement, **Google Vault** (eDiscovery & Retention).</li>
+  <li><b>Administration:</b> Advanced User/Group Management (GAM), Policy Enforcement, Google Vault (eDiscovery & Retention).</li>
   <li><b>Identity & Access:</b> SAML SSO, OIDC, OAuth, LDAP, Service Accounts, Context-Aware Access (CAA), 2-SV, API Controls.</li>
-  <li><b>Directory Sync:</b> **GCDS**, **GWPS**.</li>
+  <li><b>Directory Sync:</b> GCDS, GWPS.</li>
 </ul>
 
 ---
@@ -45,8 +45,8 @@
 <ul>
   <li><b>Email Security:</b> Advanced Routing & Compliance, SPF/DKIM/DMARC/BIMI/MTA-STS, S/MIME, SEG, Client-Side Encryption.</li>
   <li><b>Threat Protection:</b> Phishing Prevention (Sandbox, Rules), Security Awareness (KnowBe4), CASB, SIEM Integration (Varonis, Tenable).</li>
-  <li><b>Data Protection:</b> Native & 3rd-Party **DLP** (Netskope, Forcepoint, Proofpoint), Drive Labels, Data Classification.</li>
-  <li><b>Endpoint Security:</b> Advanced **MDM** (Corporate/BYOD), **GCPW**, Chrome Enterprise Management.</li>
+  <li><b>Data Protection:</b> Native & 3rd-Party DLP (Netskope, Forcepoint, Proofpoint), Drive Labels, Data Classification.</li>
+  <li><b>Endpoint Security:</b> Advanced MDM (Corporate/BYOD), GCPW, Chrome Enterprise Management.</li>
 </ul>
 
 ---
@@ -58,14 +58,14 @@
   <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white" alt="Apps Script Badge"/>
 </p>
 <ul>
-  <li><b>Migration Tools:</b> Expertise with **CloudM**, Google **DMS**, **GWMMO/GWMME**.</li>
-  <li><b>Automation:</b> **Google Apps Script** for Workspace automation, Google Workspace APIs (Admin SDK, Gmail, Drive w/ OAuth 2.0).</li>
+  <li><b>Migration Tools:</b> Expertise with CloudM, Google Workspace Migrate, Google DMS, GWMMO/GWMME.</li>
+  <li><b>Automation:</b> Google Apps Script for Workspace automation, Google Workspace APIs (Admin SDK, Gmail, Drive with OAuth 2.0).</li>
   <li><b>Foundation:</b> Java & SQL (Troubleshooting), ITIL Practices.</li>
 </ul>
 
 ---
 
-**⚙️ Tools & Platforms:**
+**⚙️ ITMS Tools & Platforms:**
 <p>
   <img src="https://img.shields.io/badge/Zoho_Desk-FA7E19?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Desk"/>
   <img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white" alt="Zendesk"/>
@@ -87,6 +87,7 @@
 
 ---
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamvvibhuti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamvvibhuti" height="30" width="40" /></a>
@@ -97,8 +98,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/> </a>
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+<a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="40" height="40"/> </a>
+<a href="https://www.activemq.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_activemq/apache_activemq-icon.svg" alt="activemq" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windowsserver" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvvibhuti&show_icons=true&locale=en&layout=compact" alt="iamvvibhuti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvvibhuti&show_icons=true&locale=en" alt="iamvvibhuti" /></p>
 
