@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Vivek Vibhuti!
 
 <p align="center">
-  <em>Senior Cloud Engineer specializing in <strong>Google Cloud Platform (GCP)</strong> and <strong>Microsoft Azure</strong>.<br/> Deep expertise in the <strong>Google Workspace</strong> ecosystem, cloud security, automation, and identity management. </p>
+  <em>Senior Cloud Engineer specialising in <strong>Google Cloud Platform (GCP)</strong>.<br/> Besides GCP, I have in-depth knowledge of the <strong>Google Workspace</strong> ecosystem, cloud security, automation, and identity management. </p>
   <hr style="width: 80%; border-top: 2px solid #79ff97;"/>
 </div></em>
 
@@ -14,6 +14,9 @@
 <p>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Badge"/>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge"/>
+  <img src="https://img.shields.io/badge/Networking-007A1C?style=for-the-badge&logo=server&logoColor=white" alt="Networking Badge"/>
+  <img src="https://img.shields.io/badge/App_Engine-DB4437?style=for-the-badge&logo=google-cloud&logoColor=white" alt="App Engine Badge"/>
+  <img src="https://img.shields.io/badge/Compute_Engine-4285F?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Compute Engine Badge"/>
 </p>
 <em>Key Services: GCE, GKE, Cloud Run, Cloud Functions, App Engine, Cloud Storage, Cloud SQL, BigQuery, VPC, Load Balancing, Cloud Armor, Cloud DNS, Cloud KMS, Cloud Identity, IAM, Cloud Monitoring/Logging</em>
 
@@ -25,11 +28,21 @@
   <img src="https://img.shields.io/badge/Identity_Management-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Identity Badge"/>
   <img src="https://img.shields.io/badge/GAM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GAM Badge"/>
   <img src="https://img.shields.io/badge/Google_Vault-FBBC05?style=for-the-badge&logo=google-vault&logoColor=black" alt="Vault Badge"/>
+  <img src="https://img.shields.io/badge/Drive_Admin-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Drive Admin Badge"/>
+  <img src="https://img.shields.io/badge/Security_Center-DB4437?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Security Center Badge"/>
+  <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" alt="Okta Badge"/>
 </p>
 <ul>
   <li><b>Administration:</b> Advanced User/Group Management (GAM), Policy Enforcement, Google Vault (eDiscovery & Retention).</li>
-  <li><b>Identity & Access:</b> SAML SSO, OIDC, OAuth, LDAP, Service Accounts, Context-Aware Access (CAA), 2-SV, API Controls.</li>
-  <li><b>Directory Sync:</b> GCDS, GWPS.</li>
+  <ul>
+          <li><b>Gmail:</b> Custom routing rules, compliance settings (content, attachments, objections), safety features (spam, phishing, malware), email authentication standards.</li>
+          <li><b>Drive:</b> Fine-tuning sharing permissions (internal/external), Drive DLP rules,  Shared Drives.</li>
+          <li><b>Meet/Chat/Calendar:</b> Meeting Security settings, Chat features/apps, Calendar resource management, and interoperability settings.</li>
+      </ul>
+  <li><b>Security Center Utilization:</b> Security Dashboard for insights, Investigation Tool for threat analysis, response, and Security Health recommendations.</li>
+  <li><b>Identity & Access:</b> SAML SSO, OIDC, OAuth, Service Accounts, Context-Aware Access (CAA), 2-SV, API Controls.</li>
+  <li><b>Directory Sync:</b> GCDS, GWPS, LDAP.</li>
+  <li><b>Marketplace App Management & Integration:</b> Evaluating, installing, and managing permissions (API scopes) for third-party applications from the Google Workspace Marketplace, ensuring secure integration.</li>
 </ul>
 
 ---
@@ -41,12 +54,14 @@
   <img src="https://img.shields.io/badge/DLP-FBBC05?style=for-the-badge&logoColor=black" alt="DLP Badge"/>
   <img src="https://img.shields.io/badge/MDM-lightgrey?style=for-the-badge" alt="MDM Badge"/>
   <img src="https://img.shields.io/badge/GCPW-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCPW Badge"/>
+  <img src="https://img.shields.io/badge/Endpoint_Mgmt-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Endpoint Management Badge"/>
 </p>
 <ul>
-  <li><b>Email Security:</b> Advanced Routing & Compliance, SPF/DKIM/DMARC/BIMI/MTA-STS, S/MIME, SEG, Client-Side Encryption.</li>
+  <li><b>Email Security:</b> Advanced Routing & Compliance, SPF/DKIM/DMARC/BIMI/TLS/MTA-STS, Postfix, S/MIME, SEG, Client-Side Encryption.</li>
   <li><b>Threat Protection:</b> Phishing Prevention (Sandbox, Rules), Security Awareness (KnowBe4), CASB, SIEM Integration (Varonis, Tenable).</li>
   <li><b>Data Protection:</b> Native & 3rd-Party DLP (Netskope, Forcepoint, Proofpoint), Drive Labels, Data Classification.</li>
-  <li><b>Endpoint Security:</b> Advanced MDM (Corporate/BYOD), GCPW, Chrome Enterprise Management.</li>
+  <li><b>Compliance:</b> ISO 27001, PCI DSS, SOC 1, SOC 2, ISO 27017, ISO 27018, ISO 27701, ISO 27001.</li>
+  <li><b>Endpoint Security:</b> Advanced MDM (Corporate/BYOD), GCPW, Chrome Enterprise Management, Chrome Browser Cloud Management (CBCM).</li>
 </ul>
 
 ---
@@ -80,10 +95,14 @@
 
 ### 🌱 What I'm Currently Focused On:
 
-* 🔭 Exploring advanced serverless architectures on GCP and Azure, focusing on cost optimization.
+* 🔭 Exploring advanced serverless architectures on GCP, focusing on cost optimization.
+* 💰 Developing comprehensive strategies for **GCP cost management and optimization** across compute, storage, and networking, utilizing billing analysis tools, budget alerts, and committed use discounts (CUDs).
 * 🤔 Deepening my knowledge of Infrastructure as Code (IaC) tools, particularly **Terraform**.
-* 🛡️ Implementing and enhancing **Zero-Trust** security models in cloud environments.
 * 📈 Leveraging Cloud Monitoring and Logging for proactive incident response.
+* ⚙️ Mastering **Google Kubernetes Engine (GKE)** administration, including cluster architecture (Standard vs. Autopilot), network policies, security hardening (RBAC, Workload Identity), and efficient scaling strategies.
+* 🌐 Architecting secure and scalable **VPC networking**, including practical implementation of Shared VPCs, Private Google Access configurations, hybrid connectivity (**Cloud Interconnect / VPN**), and advanced load balancer setups.
+* 🔐 Implementing robust **GCP native security controls**, such as **KMS** for key management, **Secret Manager** for credentials/sensitive data, and leveraging findings from **Security Command Center**.
+
 
 ---
 
@@ -124,6 +143,7 @@
       <a href="mailto:iamvvibhuti@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   </p>
 </div>
+
 
 
 ---
