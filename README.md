@@ -44,7 +44,7 @@
 ### <img src="https://img.shields.io/badge/⚙️-TECH%20STACK-79ff97?style=for-the-badge&logoColor=black" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,terraform,python,js,linux,github,gitlab,jenkins,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gcp,docker,azure,kubernetes,terraform,python,js,vscode,linux,aws,github,gitlab,jenkins,bash&theme=dark" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" width="48" height="48" style="vertical-align: top; margin-left: 8px;" />
 </p>
 
