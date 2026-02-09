@@ -37,10 +37,7 @@
 </p>
 
 <hr style="border: 0; height: 4px; background-color: #2761F5; width: 100%;" />
-📈 Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamvvibhuti&bg_color=0D1117&color=79ff97&line=ffffff&point=ffeb95&area=true&hide_border=true" width="100%" />
 
-<br />
 
 *"Automate the complex. Secure the scale."*
 
