@@ -10,20 +10,10 @@
 
 ### 🚀 IMPACT AT SCALE
 
-| 👥 55k+ Users Managed | 💾 TB-Scale Migrations | 🔐 Zero-Trust Architectures | ⚡ 99.9% Uptime Design |
+| 👥 55k+ Enterprise Users Supported | 💾 TB-Scale Migrations | 🔐 Zero Trust & Identity-Centric Security | ⚡ 99.9% Uptime Design |
 | :---: | :---: | :---: | :---: |
 
 <hr style="border: 0; height: 4px; background-color: #F527A6; width: 100%;" />
-
-| <img src="https://img.shields.io/badge/🌐-Tool &%20INFRASTRUCTURE-4285F4?style=for-the-badge&logoColor=white" /> | <img src="https://img.shields.io/badge/🛡️-SECURITY%20%26%20IDENTITY-34A853?style=for-the-badge&logoColor=white" /> | <img src="https://img.shields.io/badge/🏢-WORKSPACE%20OPERATIONS-FBBC05?style=for-the-badge&logoColor=white" /> |
-| :--- | :--- | :--- |
-| GKE · Cloud Run · App Engine | SPF · DKIM · DMARC · BIMI | Advanced GAM · Google Vault |
-| VPC · Shared VPC · Projects | MTA-STS · TLS · MX · PTR | GCDS · GWPS · LDAP · SAML |
-| Compute Engine · Cloud SQL | CAA · 2-SV · API · OAuth | OIDC · Chrome Ent. · SSO |
-| Cloud Storage · BigQuery | DLP · Netskope · Forcepoint | MDM (BYOD/Corp) · GCPW |
-| Terraform · IAM · Identity | SIEM · CASB · SEG · CSE | Cloud-M · DMS · GWMMO |
-| SMTP Relay · Postfix · DNS | OCR · Labels · Sandbox | GWMME · Archival · Backup |
-| IMAP · POP3 · SMTP Protocols | Phishing · Threat Protection | Zendesk · ManageEngine |
 
 
 <hr style="border: 0; height: 4px; background-color: #EFFF08; width: 100%;" />
