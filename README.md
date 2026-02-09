@@ -15,9 +15,6 @@
 
 <hr style="border: 0; height: 4px; background-color: #F527A6; width: 100%;" />
 
-
-<hr style="border: 0; height: 4px; background-color: #EFFF08; width: 100%;" />
-
 ### <img src="https://img.shields.io/badge/⚙️-TECH%20STACK-79ff97?style=for-the-badge&logoColor=black" />
 
 <p align="center">
