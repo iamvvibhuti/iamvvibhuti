@@ -15,7 +15,7 @@
 
 <hr style="border: 0; height: 4px; background-color: #F527A6; width: 100%;" />
 
-### <img src="https://img.shields.io/badge/⚙️-TECH%20STACK-79ff97?style=for-the-badge&logoColor=black" />
+### <img src="https://img.shields.io/badge/🎯-CURRENT%20FOCUS-79ff97?style=for-the-badge&logoColor=black" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gcp,docker,terraform,python,vscode,linux,github,bash&theme=dark" />
