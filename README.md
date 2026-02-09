@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Vivek Vibhuti!
 
-**Senior Cloud Engineer || Google Workspace || Google Cloud Consultant**
+**Senior Cloud Engineer | Google Workspace | Google Cloud Consultant**
 
   <hr style="border: 0; height: 4px; background-color: #08FF3E; width: 100%;" />
 
