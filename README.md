@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Vivek Vibhuti!
 
-**Senior Cloud Engineer | Google Workspace & Google Cloud Consultant**
+**Senior Cloud Engineer | Google Workspace | Google Cloud**
 
   <hr style="border: 0; height: 4px; background-color: #08FF3E; width: 100%;" />
 
@@ -31,10 +31,5 @@
       <a href="https://instagram.com/iamvvibhuti" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
       <a href="mailto:iamvvibhuti@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
-
-<hr style="border: 0; height: 4px; background-color: #2761F5; width: 100%;" />
-
-
-*"Automate the complex. Secure the scale."*
 
 </div>
