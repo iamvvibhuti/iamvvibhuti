@@ -10,7 +10,7 @@
 ### <img src="https://img.shields.io/badge/🎯-CURRENT%20FOCUS-79ff97?style=for-the-badge&logoColor=black" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,docker,terraform,python,vscode,linux,github,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gcp,docker,terraform,python,vscode,linux,bash&theme=dark" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" width="48" height="48" style="vertical-align: top; margin-left: 8px;" />
 </p>
 
