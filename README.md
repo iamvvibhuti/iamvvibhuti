@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Vivek Vibhuti!
+# Hi 👋, I'm Vivek Vibhuti!
 
 **Cloud Consultant | Google Workspace | Google Cloud**
 
