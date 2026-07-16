@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Vivek Vibhuti!
+# Hi 👋, I'm Vivek!
 
-**Cloud Consultant | Google Workspace | Google Cloud**
+**Workspace Architect x Google Cloud**
 
   <hr style="border: 0; height: 4px; background-color: #08FF3E; width: 100%;" />
 
